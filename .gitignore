@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.classpath
+.gitignore
+.idea/
+.project
+.settings/
+InterfacesBoot.ipr
+InterfacesBoot.iws
+pom.xml
+src/
+target/
+test-output/
